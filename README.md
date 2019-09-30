@@ -1,24 +1,22 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## TO DOS: 
+* Look into Canvas
+* Re-watch lecture video on APIs. (serializers)
 
-Things you may want to cover:
 
-* Ruby version
+## TOMORROW: 
+* Get fetches set up with the API 
+* Start fleshing out canvas work 
+* Render dynamic bubbles on screen 
+* Score counter rendering correctly 
 
-* System dependencies
 
-* Configuration
+## FUTURE: 
+* Jelly
+* Enemy
+* Sound effects
+* Death animations 
+* Authorization/Log in page 
+* Displaying all users' scoreboard
 
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...

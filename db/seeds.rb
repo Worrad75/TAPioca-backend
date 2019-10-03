@@ -2,9 +2,9 @@ User.destroy_all
 Score.destroy_all
 Game.destroy_all
 
-user_a = User.create!(username: "Darrow", password_digest: "abc")
-user_b = User.create!(username: "Belinda", password_digest: "abc")
-user_c = User.create!(username: "Daniel", password_digest: "abc")
+user_a = User.create!(username: "Darrow")
+user_b = User.create!(username: "Belinda")
+user_c = User.create!(username: "Daniel")
 puts "done making users"
 
 score_a = Score.create!(tally: 350)

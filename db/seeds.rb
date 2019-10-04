@@ -7,9 +7,9 @@ user_b = User.create!(username: "Belinda")
 user_c = User.create!(username: "Daniel")
 puts "done making users"
 
-score_a = Score.create!(tally: 350)
-score_b = Score.create!(tally: 250)
-score_c = Score.create!(tally: 450)
+score_a = Score.create!(tally: 2)
+score_b = Score.create!(tally: 11)
+score_c = Score.create!(tally: 12)
 puts "done making scores"
 
 game_a = Game.create!(score_id: score_a.id, user_id: user_a.id)
